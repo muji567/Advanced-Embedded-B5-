@@ -1,4 +1,0 @@
-
-
-ssh pipi@raspberrypiB5
-pipib5 - password
